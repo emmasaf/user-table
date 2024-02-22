@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "Levii",
+      "last_name": "Ackerman",
+      "phone": "1234567895",
+      "mail": "john.doe@example.com",
+      "status": "block",
+      "country": "Croatia",
+      "avatar": "https://i.pinimg.com/originals/c7/81/44/c7814489b02ee7f9e824722aedfbe434.png"
+    },
+    {
+      "id": "2",
+      "first_name": "Jean",
+      "last_name": "Kirsteingf",
+      "phone": 3456789012,
+      "mail": "mike.smith@example.com",
+      "status": "block",
+      "country": "Turkmenistan",
+      "avatar": "https://i.pinimg.com/originals/55/7f/84/557f84d7c68b82663e4466f355431d06.jpg"
+    },
+    {
+      "id": "4",
+      "first_name": "Connie",
+      "last_name": "Springer",
+      "phone": 4567890123,
+      "mail": "sara.connor@example.com",
+      "status": "block",
+      "country": "Australia",
+      "avatar": "https://64.media.tumblr.com/6da9dc98dd4138994bd1d64ab440b979/1a883a320f91afea-fe/s540x810/9b45c6c02d56fea57803774af578b9ecf9066a07.jpg"
+    },
+    {
+      "id": "cd72",
+      "avatar": "",
+      "first_name": "dgdg",
+      "last_name": "fdffgdfg",
+      "country": "Republic of the Congo",
+      "phone": "5345345",
+      "mail": "fdgdfgdgdg@ere.rret",
+      "status": "active"
+    },
+    {
+      "id": "c05d",
+      "first_name": "Asdadsss",
+      "last_name": "Aasdasd",
+      "avatar": "",
+      "phone": "+9356565",
+      "mail": "Madsfsfils@aa.rss",
+      "country": "Poland",
+      "status": "active"
+    }
+  ]
+}
